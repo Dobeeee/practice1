@@ -10,6 +10,6 @@ public class HomeController {
     @ResponseBody
 
     public String showHome() {
-        return "첫 시작";
+        return "라이브";
     }
 }
